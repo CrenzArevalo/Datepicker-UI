@@ -9,7 +9,7 @@ This is a custom-built, interactive Datepicker user interface created as part of
 - **SEO Optimized**: Includes meta tags for search engine visibility.
 
 ## Live Demo
-Check out the project here: [Replace with your GitHub Pages link]
+Check out the project here: https://crenzarevalo.github.io/Datepicker-UI/
 
 ## Project Requirements
 - Repository must contain a README.
